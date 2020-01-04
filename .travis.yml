@@ -1,4 +1,0 @@
-language: objective-c
-xcode_sdk: macosx10.9
-xcode_workspace: ios-class-guard.xcworkspace
-xcode_scheme: ios-class-guard
